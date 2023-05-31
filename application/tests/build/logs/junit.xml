@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Latihan_test" file="/var/www/html/unittest/application/tests/controllers/Latihan_test.php" tests="1" assertions="1" errors="0" warnings="0" failures="1" skipped="0" time="0.004107">
+    <testcase name="test_get_name" class="Latihan_test" classname="Latihan_test" file="/var/www/html/unittest/application/tests/controllers/Latihan_test.php" line="10" assertions="1" time="0.004107">
+      <failure type="PHPUnit\Framework\ExpectationFailedException">Latihan_test::test_get_name
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'laptop'
++'laptok'
+
+/var/www/html/unittest/application/tests/controllers/Latihan_test.php:13
+phpvfscomposer:///var/www/html/unittest/vendor/phpunit/phpunit/phpunit:106</failure>
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Latihan_test::test_get_name":3},"times":{"Latihan_test::test_get_name":0.004,"Welcome_test::test_index":0.002,"Welcome_test::test_method_404":0.002,"Welcome_test::test_APPPATH":0.001}}
